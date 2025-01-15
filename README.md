@@ -1,4 +1,6 @@
 # hello-world
-## My name is Micah and this is the hello-world file of my github.
-~$${\color{red} This \space is \space for \space my \space nefarious \space evil \space plans...}$$~
+### My name is Micah and this is the hello-world file of my github.
 I am an aspiring software engineer, interested in backend development, AI, and interesting projects.
+
+
+## ~This is for my evil plans~
