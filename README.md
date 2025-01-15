@@ -3,4 +3,4 @@
 I am an aspiring software engineer, interested in backend development, AI, and interesting projects.
 
 
-## ~This is for my evil plans~
+~This is for my evil plans 🦹‍♂️~
